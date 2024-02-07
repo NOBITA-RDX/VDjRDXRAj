@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from VDjRDXMUSIC import LOGGER, app, userbot
-from VDjRDXMUSIC.core.call import RDX
+from VDjRDXMUSIC.core.call import RDXX
 from VDjRDXMUSIC.misc import sudo
 from VDjRDXMUSIC.plugins import ALL_MODULES
 from VDjRDXMUSIC.utils.database import get_banned_users, get_gbanned
