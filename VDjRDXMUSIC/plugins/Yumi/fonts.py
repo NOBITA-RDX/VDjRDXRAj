@@ -1,7 +1,7 @@
 from pyrogram import  filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from VDjRDXMUSIC.utils.daxx_font import Fonts
+from VDjRDXMUSIC.utils.rdx_font import Fonts
 from VDjRDXMUSIC import app
 
 @app.on_message(filters.command(["font", "fonts"]))
