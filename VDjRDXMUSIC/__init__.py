@@ -1,4 +1,4 @@
-from VDjRDXMUSIC.core.bot import DAXX
+from VDjRDXMUSIC.core.bot import RDX
 from VDjRDXMUSIC.core.dir import dirr
 from VDjRDXMUSIC.core.git import git
 from VDjRDXMUSIC.core.userbot import Userbot
